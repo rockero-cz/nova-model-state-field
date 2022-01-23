@@ -1,0 +1,22 @@
+{
+    "name": "rockero-cz/nova-model-state-field",
+    "description": "A Laravel Nova field for spatie/laravel-model-state attribute.",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rockero\\ModelStateField\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
